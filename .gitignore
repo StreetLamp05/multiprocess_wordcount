@@ -1,0 +1,12 @@
+# clion
+.idea
+.idea/
+.idea*
+.idea/*
+
+# object files
+*.out
+*.o
+
+result/
+result/*
